@@ -64,7 +64,7 @@ class BotHandler:
             return False
 
     
-    #https://api.telegram.org/bot1551813377:AAGi3j56YM2t2rOYUeXT0VAbIbKd4eVQFb4/sendmessage?chat_id=-559007429&reply_to_message_id=11&text=hello
+    #https://api.telegram.org/bot<token>/sendmessage?chat_id=-559007429&reply_to_message_id=11&text=hello
 
         
 
